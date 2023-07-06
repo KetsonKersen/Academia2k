@@ -9,4 +9,4 @@ Projeto desenvolvido em React e Styled-components.
 Bibliotecas utilizadas na criação do projeto:
 - react-icons
 - react-scroll
-- -styled-component
+- styled-component

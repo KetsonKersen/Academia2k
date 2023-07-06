@@ -4,7 +4,7 @@
 Primeiro projeto desenvolvido com React.
 Landing page para uma academia, dando ao usuário uma boa experiência de navegação, podendo ainda realizar um calculo de IMC diretamente no site da academia.
 
-Projeto desenvolvido em React e Styled-components.
+Projeto desenvolvido em React e Styled-Components.
 
 Bibliotecas utilizadas na criação do projeto:
 - react-icons

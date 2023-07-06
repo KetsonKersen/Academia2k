@@ -10,3 +10,5 @@ Bibliotecas utilizadas na criação do projeto:
 - react-icons
 - react-scroll
 - styled-component
+
+Acesse: https://academia2k.vercel.app/

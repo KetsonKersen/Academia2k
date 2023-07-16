@@ -38,17 +38,17 @@ export default function Cards(props){
                 <Card>
                     <img src={Progress}></img>
                     <h3>Progressão</h3>
-                    <p>Nossa equipe de especialistas trabalhará com voce para criar um plan o personalizado que o ajudará a alcançar o sucesso passo a passo.</p>
+                    <p>Nossa equipe de especialistas trabalhará com voce para criar um plano personalizado que o ajudará a alcançar o sucesso passo a passo.</p>
                 </Card>
                 <Card>
                 <img src={muscle}></img>
                     <h3>Resultado</h3>
-                    <p>Nossa equipe de especialistas trabalhará com você para criar um plano personalizado que o ajudará a alcançar o sucesso passo a passo.</p>
+                    <p>Com uma variedade de exercícios para escolher, você terá tudo o que precisa para entrar na melhor forma de sua vida.</p>
                 </Card>
                 <Card className="card">
                 <img src={nutri}></img>
                     <h3>Nutriçao</h3>
-                    <p>Nossa equipe de especialistas trabalhará com voce para criar um plan o personalizado que o ajudará a alcançar o sucesso passo a passo.</p>
+                    <p>Nossa equipe trabalhará com você para criar um plano de refeições personalizado que o ajude a atingir suas metas específicas de saúde.</p>
                 </Card>
             </Container>
         </Section>

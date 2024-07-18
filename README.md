@@ -9,6 +9,7 @@ Landing page para uma academia desenvolvido com React.js, dando ao usuário uma 
 ## 🔧 Tecnologias Utilizadas
 - Frontend: React.js
 - Estilo: Styled-Components
+- Icones: react-icons
 - Deploy: Vercel
 
 ## 🔗 Links

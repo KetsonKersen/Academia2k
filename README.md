@@ -1,14 +1,15 @@
-# Academia2K
+# ✨ Academia2k
 ![Academia2k](https://github.com/KetsonKersen/academia2k/assets/127996989/cb508a66-d21b-4c41-9caa-42009250722b)
 
-Primeiro projeto desenvolvido com React.
-Landing page para uma academia, dando ao usuário uma boa experiência de navegação, podendo ainda realizar um calculo de IMC diretamente no site da academia.
+Landing page para uma academia desenvolvido com React.js, dando ao usuário uma boa experiência de navegação, podendo ainda realizar um calculo de IMC diretamente no site da academia.
 
-Projeto desenvolvido em React e Styled-Components.
+## 🌌 Funcionalidades
+- Calculo de IMC: O usuário pode realizar um cálculo de IMC.
 
-Bibliotecas utilizadas na criação do projeto:
-- react-icons
-- react-scroll
-- styled-component
+## 🔧 Tecnologias Utilizadas
+- Frontend: React.js
+- Estilo: Styled-Components
+- Deploy: Vercel
 
+## 🔗 Links
 Acesse: https://academia2k.vercel.app/
